@@ -6,3 +6,4 @@ certifi==2018.4.16
 requests==2.20.0
 lxml==4.6.3
 gunicorn
+google-cloud
